@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: boxoffice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-13 20:43+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Anthony Dubois <dev@woodymood-dev.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_c;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\data\\formation - blog wordpress ifage\\demo\\wp-content\\plugins\\boxoffice\n"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:92
+msgid "BoxOffice"
+msgstr "BoxOffice"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:130
+msgid "Options saved."
+msgstr ""
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:136
+msgid "To get the box office page view, put somewhere in a page or in a post, this html comment, in a standalone paragraph:"
+msgstr "Pour obtenir la vue du boxoffice, mettez dans le code html d'un article ou d'une page, et ceci dans un paragraphe à lui tout seul, le commentaire html suivant:"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:139
+msgid "then, enter below, the post's or page's ID:"
+msgstr "puis, saisissez ci-dessous, l'identifiant de l'article ou de la page:"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:151
+msgid "ID of the post or page, where you want to display the box office"
+msgstr "ID de la page ou de l'article"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:156
+msgid "Show rank"
+msgstr "Afficher le classement"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:161
+msgid "Show publishing date"
+msgstr "Afficher la date de publication"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:166
+msgid "Show visits"
+msgstr "Afficher le nombre de visites"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:271
+msgid "visits"
+msgstr "visites"
+
+#: D:\data\formation
+#: - blog wordpress
+#: ifage\demo\wp-content\plugins\boxoffice/boxoffice.php:271
+msgid "visit"
+msgstr "visite"
+
+#~ msgid "Something wrong happend while calculating this page!"
+#~ msgstr "Une erreur est survenue lors du calcul de cette page!"
+
